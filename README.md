@@ -1,2 +1,2 @@
 # czero
-Counter-Strike: Condition Zero
+Counter-Strike: Condition Zero Sound Files
